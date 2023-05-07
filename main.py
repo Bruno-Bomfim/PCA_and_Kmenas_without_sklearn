@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import create_pca
 import create_kmeans
-#pip install openpyxl
+
 
 def main():
   #importa o arquivo do excel
